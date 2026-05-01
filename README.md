@@ -1,14 +1,34 @@
 # ✨ Diario Devocional en Python
 
-Una pequeña aplicación hecha con amor para fortalecer mi relación con Dios.
+Una mini aplicación de escritorio creada con Python y Tkinter, diseñada para mostrar mensajes de adoración, versículos bíblicos y permitir guardar oraciones personales en un diario espiritual.
 
-## Funcionalidades
+## 💡 Descripción
 
-- Lectura de mensajes de adoración
-- Escritura de oraciones personales
-- Guardado de un diario espiritual
+Este proyecto fue desarrollado como una práctica inicial en Python, combinando lógica básica, interfaz gráfica y manejo de archivos.
 
-## Cómo usar
+La aplicación permite:
+
+- Leer mensajes de adoración aleatorios.
+- Recibir versículos bíblicos.
+- Escribir oraciones personales.
+- Guardar las oraciones en un archivo `.txt`.
+- Usar una interfaz sencilla, bonita y funcional.
+
+## 🖼️ Vista previa
+
+Próximamente agregaré una captura de pantalla de la aplicación.
+
+## 🛠️ Tecnologías utilizadas
+
+- Python
+- Tkinter
+- Módulo `random`
+- Módulo `datetime`
+- Manejo de archivos `.txt`
+
+## ▶️ Cómo ejecutar el proyecto
+
+1. Clona este repositorio:
 
 ```bash
-python main.py
+git clone https://github.com/alexandrajerez12-pro/diario-devocional-python.git
